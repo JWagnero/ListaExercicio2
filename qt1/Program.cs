@@ -6,7 +6,7 @@ Questão 1: Informações do Personagem
     classe, e raça do personagem e exiba esses dados no console.
 @Lista: 02 - Condicionais
 @Autor: João Wagner
-@Data: 20/08/2024
+@Data: 21/08/2024
 ---------------------------------------------------------------------*/
 
 using System;

@@ -12,7 +12,7 @@ Questão 2: Sistema de Pontuação em Batalha
 
 @Lista: 02 - Condicionais
 @Autor: João Wagner
-@Data: 20/08/2024
+@Data: 21/08/2024
 ---------------------------------------------------------------------*/
 
 using System;

@@ -17,3 +17,18 @@ C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação
 C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 2\qt1\build\qt1.runtimeconfig.json
 C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 2\qt1\build\qt1.dll
 C:\Users\j02\Documents\João Wagner Ludemberg - 2B Jogos\Lógica de progamação\C#\Lista de exercicio 2\qt1\build\qt1.pdb
+C:\Users\Jo�oWagnerLudembergd\Documents\Wagnero\C#\ListaExercicio2\qt1\build\qt1.exe
+C:\Users\Jo�oWagnerLudembergd\Documents\Wagnero\C#\ListaExercicio2\qt1\build\qt1.deps.json
+C:\Users\Jo�oWagnerLudembergd\Documents\Wagnero\C#\ListaExercicio2\qt1\build\qt1.runtimeconfig.json
+C:\Users\Jo�oWagnerLudembergd\Documents\Wagnero\C#\ListaExercicio2\qt1\build\qt1.dll
+C:\Users\Jo�oWagnerLudembergd\Documents\Wagnero\C#\ListaExercicio2\qt1\build\qt1.pdb
+C:\Users\Jo�oWagnerLudembergd\Documents\Wagnero\C#\ListaExercicio2\qt1\obj\Debug\net8.0\qt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jo�oWagnerLudembergd\Documents\Wagnero\C#\ListaExercicio2\qt1\obj\Debug\net8.0\qt1.AssemblyInfoInputs.cache
+C:\Users\Jo�oWagnerLudembergd\Documents\Wagnero\C#\ListaExercicio2\qt1\obj\Debug\net8.0\qt1.AssemblyInfo.cs
+C:\Users\Jo�oWagnerLudembergd\Documents\Wagnero\C#\ListaExercicio2\qt1\obj\Debug\net8.0\qt1.csproj.CoreCompileInputs.cache
+C:\Users\Jo�oWagnerLudembergd\Documents\Wagnero\C#\ListaExercicio2\qt1\obj\Debug\net8.0\qt1.sourcelink.json
+C:\Users\Jo�oWagnerLudembergd\Documents\Wagnero\C#\ListaExercicio2\qt1\obj\Debug\net8.0\qt1.dll
+C:\Users\Jo�oWagnerLudembergd\Documents\Wagnero\C#\ListaExercicio2\qt1\obj\Debug\net8.0\refint\qt1.dll
+C:\Users\Jo�oWagnerLudembergd\Documents\Wagnero\C#\ListaExercicio2\qt1\obj\Debug\net8.0\qt1.pdb
+C:\Users\Jo�oWagnerLudembergd\Documents\Wagnero\C#\ListaExercicio2\qt1\obj\Debug\net8.0\qt1.genruntimeconfig.cache
+C:\Users\Jo�oWagnerLudembergd\Documents\Wagnero\C#\ListaExercicio2\qt1\obj\Debug\net8.0\ref\qt1.dll

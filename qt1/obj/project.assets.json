@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\j02\\.nuget\\packages\\": {}
+    "C:\\Users\\Jo�oWagnerLudembergd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\j02\\Documents\\João Wagner Ludemberg - 2B Jogos\\Lógica de progamação\\C#\\Lista de exercicio 2\\qt1\\qt1.csproj",
+      "projectUniqueName": "C:\\Users\\Jo�oWagnerLudembergd\\Documents\\Wagnero\\C#\\ListaExercicio2\\qt1\\qt1.csproj",
       "projectName": "qt1",
-      "projectPath": "C:\\Users\\j02\\Documents\\João Wagner Ludemberg - 2B Jogos\\Lógica de progamação\\C#\\Lista de exercicio 2\\qt1\\qt1.csproj",
-      "packagesPath": "C:\\Users\\j02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\j02\\Documents\\João Wagner Ludemberg - 2B Jogos\\Lógica de progamação\\C#\\Lista de exercicio 2\\qt1\\obj\\",
+      "projectPath": "C:\\Users\\Jo�oWagnerLudembergd\\Documents\\Wagnero\\C#\\ListaExercicio2\\qt1\\qt1.csproj",
+      "packagesPath": "C:\\Users\\Jo�oWagnerLudembergd\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jo�oWagnerLudembergd\\Documents\\Wagnero\\C#\\ListaExercicio2\\qt1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\j02\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Jo�oWagnerLudembergd\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
